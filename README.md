@@ -1,8 +1,8 @@
 # Praktikum-2---Maulana
 Latihan 1
-![alt text] (https://github.com/Maulanapranasutra/Praktikum-2---Maulana/blob/master/1.JPG)
+![alt text](https://github.com/Maulanapranasutra/Praktikum-2---Maulana/blob/master/1.JPG)
 Latihan 2
-![alt text] (https://github.com/Maulanapranasutra/Praktikum-2---Maulana/blob/master/2.JPG)
+![alt text](https://github.com/Maulanapranasutra/Praktikum-2---Maulana/blob/master/2.JPG)
 Latihan 3
 ![alt text] (https://github.com/Maulanapranasutra/Praktikum-2---Maulana/blob/master/3.JPG)
 Latihan 4
